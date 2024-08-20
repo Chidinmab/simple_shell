@@ -1,0 +1,35 @@
+/*
+ * Author: Chidinma Nwankwo
+ * Email: 
+ * Role: Lead Developer
+
+ * 
+ * Author: Oluwatobiloba Otun
+ * Email: bamidurooluwatobiloba@gmail.com
+ * Role: Contributor
+
+ * 
+ * Project Name: Simple_shell
+ * File Name: authors.c
+ * Date: August 20, 2024
+ * 
+ * This file contains the authorship information for the simple_shell Project.
+ */
+
+#include <stdio.h>
+
+void print_authors() {
+    printf("Authors of simple_shell Project:\n");
+    printf("1. Chidinma Nwankwo\n");
+    printf("   Email: \n");
+    printf("   Role: Lead Developer\n");
+    printf("\n");
+    printf("2. Oluwatobiloba Otun\n");
+    printf("   Email: bamidurooluwatobiloba@gmail.com\n");
+    printf("   Role: Contributor\n");
+}
+
+int main() {
+    print_authors();
+    return 0;
+}
