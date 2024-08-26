@@ -1,6 +1,6 @@
 /*
  * Author: Chidinma Nwankwo
- * Email: 
+ * Email: Chidinmablessingpat@gmail.com
  * Role: Lead Developer
 
  * 
@@ -21,7 +21,7 @@
 void print_authors() {
     printf("Authors of simple_shell Project:\n");
     printf("1. Chidinma Nwankwo\n");
-    printf("   Email: \n");
+    printf("   Email: Chidinmablessingpat@gmail.com\n");
     printf("   Role: Lead Developer\n");
     printf("\n");
     printf("2. Oluwatobiloba Otun\n");
